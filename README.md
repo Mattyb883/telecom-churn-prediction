@@ -8,6 +8,19 @@ The project was completed as part of a data science sprint and includes end-to-e
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Dataset Description](#dataset-description)
+- [Process and Workflow](#process-and-workflow)
+- [Best Model Performance](#best-model-performance)
+- [Key Insights](#key-insights)
+- [Deliverables](#deliverables)
+- [Future Work](#future-work)
+- [Tools & Libraries](#tools--libraries)
+
+---
+
 ## Dataset Description
 
 The dataset consists of four CSV files:
